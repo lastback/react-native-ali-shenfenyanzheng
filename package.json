@@ -9,8 +9,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "nick.kai.lee",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "*"
   }
